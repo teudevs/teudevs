@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @teudevs
-- 👀 I’m working in C#
+- 👀 I’m working in mobile
 - 🌱 I’m currently learning C#, .NET, .ASPNET
 
 <div style="display: inline_block "margin-left: 20px"><br>
